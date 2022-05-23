@@ -1,2 +1,2 @@
 # Hello-Wrold
-My github day 1 : New start
+My GitHub day 1 : New start
